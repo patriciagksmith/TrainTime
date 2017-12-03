@@ -1,0 +1,25 @@
+body{
+	background-image: url("images/background.png");
+}
+.jumbotron {
+	margin-top:20px;
+	background-color:#cccccc;
+	border: solid thick #003650 !important;
+	background-image: url("images/logo.png");
+	background-repeat: no-repeat;
+	background-position: 30px 20px;
+	color:#003650;
+}
+.panel-heading {
+	background-color: #003650 !important;
+}
+.panel-primary {
+	border-color: #003650 !important;
+}
+.text-left {
+	color:#ffffff;
+}
+.btn-primary {
+	background-color:#2babe2;
+	border:none;
+}
